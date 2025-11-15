@@ -1,4 +1,3 @@
-# 👋 Hi there, I'm Nandhini Chandrakala Raghukumar 
 
 # Welcome to my GitHub profile
 🌟I am a graduate student at the University of Central Missouri, focusing on cloud-based data engineering and entry-level machine learning workflows. My work involves building scalable data pipelines, experimenting with cloud services, and developing Python-based tools for analytics and automation.
@@ -21,7 +20,7 @@ I am continuously working on improving my technical skills and developing real-w
 ## 🛠 Skills and Tools
 
 
-[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Programming: Python, SQL, PySpark, Bash
 AI/ML & NLP: Transformers, Hugging Face, LangChain, spaCy, OpenAI API, PyTorch, TensorFlow, scikit-learn, XGBoost
 Data Engineering: PySpark, Airflow, Kafka, ETL, Delta Lake, Data Lakes, Data Warehouses
 Web & API Development: FastAPI, Flask, Django, RESTful APIs
