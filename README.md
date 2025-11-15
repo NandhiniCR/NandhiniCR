@@ -1,10 +1,6 @@
 # 👋 Hi there, I'm Nandhini Chandrakala Raghukumar 
 
-🌟Welcome to my GitHub profile!
-I am a graduate student at the University of Central Missouri, passionate about leveraging technology to solve real-world problems.
-Aspiring Data Analyst | AWS Cloud Enthusiast | Skilled in SQL, Python, and Power BI.
-Excited to grow, learn, and contribute to innovative projects in the world of data and cloud technology.
-
+🌟I am a graduate student at the University of Central Missouri focusing on cloud-based data engineering and entry-level machine learning workflows. My work centers around building clean, scalable data pipelines, experimenting with cloud services, and developing Python-based tools for analytics and automation. I have hands-on experience with AWS (SageMaker, Glue, Lambda, Redshift) and basic exposure to GCP (BigQuery), along with practical skills in Python, SQL, PySpark, FastAPI, Power BI, and foundational MLOps practices.
 ---
 
 ## 🚀 About Me
@@ -20,16 +16,15 @@ Excited to grow, learn, and contribute to innovative projects in the world of da
 ## 🛠 Skills and Tools
 
 
-- *Cloud Platforms:* AWS S3, AWS Glue, AWS RDS
-  *Programming Languages: Python, SQLs, PHP, Java (Basics), HTML, CSS
-  *Databases: MS SQL Server, MySQL, PostgreSQL, SQLite, NoSQL
-  *Data Integration & ETL: Foundational experience with ETL processes and tools 
-  *Business Intelligence Tools: Basic knowledge of Power BI
-  *Cloud Platforms: AWS, Familiarity with cloud-based integration services (Databricks, Snowflake – basic)
-  *Version Control & Collaboration: GitHub
-- *Visualization:* Power BI
-- *Version Control:* Git, GitHub
-- *Other:* ETL Pipelines, Data Analysis, Problem Solving
+Programming: Python, SQL, PySpark, Bash
+AI/ML & NLP: Transformers, Hugging Face, LangChain, spaCy, OpenAI API, PyTorch, TensorFlow, scikit-learn, XGBoost
+Data Engineering: PySpark, Airflow, Kafka, ETL, Delta Lake, Data Lakes, Data Warehouses
+Web & API Development: FastAPI, Flask, Django, RESTful APIs
+Cloud Platforms: AWS (Primary), Azure (Basic), GCP (BigQuery)
+MLOps & DevOps: Docker, Kubernetes, GitHub Actions, CI/CD, MLflow, Terraform (Basics)
+Databases: PostgreSQL, ElasticSearch, Pinecone, Snowflake
+Visualization: Power BI, Tableau, Matplotlib
+Other Tools/Concepts: GitHub, Linux, Agile/Scrum, Prompt Engineering, RAG Architecture, Vector Databases
 
 ---
 
@@ -52,3 +47,4 @@ Excited to grow, learn, and contribute to innovative projects in the world of da
 ---
 
 # 🌟 Thank you for visiting my GitHub Profile!
+
