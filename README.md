@@ -1,6 +1,11 @@
 # 👋 Hi there, I'm Nandhini Chandrakala Raghukumar 
 
-🌟I am a graduate student at the University of Central Missouri focusing on cloud-based data engineering and entry-level machine learning workflows. My work centers around building clean, scalable data pipelines, experimenting with cloud services, and developing Python-based tools for analytics and automation. I have hands-on experience with AWS (SageMaker, Glue, Lambda, Redshift) and basic exposure to GCP (BigQuery), along with practical skills in Python, SQL, PySpark, FastAPI, Power BI, and foundational MLOps practices.
+# Welcome to my GitHub profile
+🌟I am a graduate student at the University of Central Missouri, focusing on cloud-based data engineering and entry-level machine learning workflows. My work involves building scalable data pipelines, experimenting with cloud services, and developing Python-based tools for analytics and automation.
+
+I have hands-on experience with AWS (SageMaker, Glue, Lambda, Redshift) and exposure to GCP (BigQuery), along with practical skills in Python, SQL, PySpark, FastAPI, and Power BI. This GitHub includes projects related to cloud data workflows, basic ML development, feature engineering, ETL processes, API development, and serverless automation.
+
+I am continuously working on improving my technical skills and developing real-world projects as I grow in the field of cloud and data engineering.s.
 ---
 
 ## 🚀 About Me
@@ -47,4 +52,5 @@ Other Tools/Concepts: GitHub, Linux, Agile/Scrum, Prompt Engineering, RAG Archit
 ---
 
 # 🌟 Thank you for visiting my GitHub Profile!
+
 
