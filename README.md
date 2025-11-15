@@ -21,7 +21,7 @@ I am continuously working on improving my technical skills and developing real-w
 ## 🛠 Skills and Tools
 
 
-Programming: Python, SQL, PySpark, Bash
+[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 AI/ML & NLP: Transformers, Hugging Face, LangChain, spaCy, OpenAI API, PyTorch, TensorFlow, scikit-learn, XGBoost
 Data Engineering: PySpark, Airflow, Kafka, ETL, Delta Lake, Data Lakes, Data Warehouses
 Web & API Development: FastAPI, Flask, Django, RESTful APIs
@@ -52,5 +52,6 @@ Other Tools/Concepts: GitHub, Linux, Agile/Scrum, Prompt Engineering, RAG Archit
 ---
 
 # 🌟 Thank you for visiting my GitHub Profile!
+
 
 
